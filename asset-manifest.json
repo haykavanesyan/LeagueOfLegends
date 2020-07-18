@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LeagueOfLegends/static/css/main.4e16de2d.chunk.css",
+    "main.js": "/LeagueOfLegends/static/js/main.e176b553.chunk.js",
+    "main.js.map": "/LeagueOfLegends/static/js/main.e176b553.chunk.js.map",
+    "runtime-main.js": "/LeagueOfLegends/static/js/runtime-main.1d289525.js",
+    "runtime-main.js.map": "/LeagueOfLegends/static/js/runtime-main.1d289525.js.map",
+    "static/js/2.ebaddaf0.chunk.js": "/LeagueOfLegends/static/js/2.ebaddaf0.chunk.js",
+    "static/js/2.ebaddaf0.chunk.js.map": "/LeagueOfLegends/static/js/2.ebaddaf0.chunk.js.map",
+    "index.html": "/LeagueOfLegends/index.html",
+    "precache-manifest.ce15e522bfebf3f6cfa28f795d2bfb2e.js": "/LeagueOfLegends/precache-manifest.ce15e522bfebf3f6cfa28f795d2bfb2e.js",
+    "service-worker.js": "/LeagueOfLegends/service-worker.js",
+    "static/css/main.4e16de2d.chunk.css.map": "/LeagueOfLegends/static/css/main.4e16de2d.chunk.css.map",
+    "static/js/2.ebaddaf0.chunk.js.LICENSE.txt": "/LeagueOfLegends/static/js/2.ebaddaf0.chunk.js.LICENSE.txt",
+    "static/media/deleted.png": "/LeagueOfLegends/static/media/deleted.0d4c04f9.png",
+    "static/media/remove.png": "/LeagueOfLegends/static/media/remove.729061e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d289525.js",
+    "static/js/2.ebaddaf0.chunk.js",
+    "static/css/main.4e16de2d.chunk.css",
+    "static/js/main.e176b553.chunk.js"
+  ]
+}
