@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5511cfa8136795b42f290423eb95531",
+    "revision": "ae9313756182d8ca9c97d3b19d40a00d",
     "url": "/LeagueOfLegends/index.html"
   },
   {
-    "revision": "3c4b1221d63f260e288c",
+    "revision": "5303a72efebceaf6808e",
     "url": "/LeagueOfLegends/static/css/main.50c35886.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LeagueOfLegends/static/js/2.41d04a06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c4b1221d63f260e288c",
-    "url": "/LeagueOfLegends/static/js/main.f0f5d53f.chunk.js"
+    "revision": "5303a72efebceaf6808e",
+    "url": "/LeagueOfLegends/static/js/main.ef1c3878.chunk.js"
   },
   {
     "revision": "990516a3b959cb096a2f",
