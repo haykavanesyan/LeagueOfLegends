@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import ReduxSearchForm from './form/form'
-import {searchThunk, chosenThunk,removed,deleteResult} from './redux/appReducer'
+import {searchThunk, chosenThunk,removed} from './redux/appReducer'
 import {connect} from 'react-redux'
 import Results from './form/results'
 import Chosen from './form/chosen'
@@ -39,4 +39,4 @@ let mapStateToProps = (state) => ({
 
 })
 
-export default connect(mapStateToProps, {searchThunk, chosenThunk, removed,deleteResult})(App);
+export default connect(mapStateToProps, {searchThunk, chosenThunk, removed})(App);

@@ -3,9 +3,10 @@ import {reduxForm, Field} from 'redux-form'
 import style from './result.module.css'
 
 let SearchForm = (props) => {
+
 	return (
-          <form  onSubmit={props.handleSubmit}>
-             <Field className={style.input} name={'search'} component="input"/>
+          <form onChange={props.handleSubmit} onSubmit={props.handleSubmit}>
+             <Field  className={style.input} name={'search'} component="input"/>
              <button className={style.button}>Search</button>
           </form>
 		)
