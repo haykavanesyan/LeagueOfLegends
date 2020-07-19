@@ -6,8 +6,7 @@ let SearchForm = (props) => {
 
 	return (
           <form onChange={props.handleSubmit} onSubmit={props.handleSubmit}>
-             <Field  className={style.input} name={'search'} component="input"/>
-             <button className={style.button}>Search</button>
+             <Field placeholder="Search" className={style.input} name={'search'} component="input"/>
           </form>
 		)
 }
