@@ -27,7 +27,6 @@ export let appReducer = (state = defaultState, action) => {
 
 		}
 		case "REMOVE":
-		debugger
 		return {
 			...state,
 			chosen: state.chosen.filter(e => e !== action.item),

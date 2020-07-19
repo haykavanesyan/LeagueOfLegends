@@ -8,7 +8,7 @@ let Result = (props) => {
  
  return (
  
- 	  <div >
+ 	  <div>
 
          {props.result.map(e => { 
          	
